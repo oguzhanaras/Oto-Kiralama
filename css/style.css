@@ -35,7 +35,7 @@ body {
 .bolum1 .container .navbar {
     position: absolute;
     top: 30px;
-    width: 70%;
+    width: 85%;
     z-index: 100;
 }
 
